@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306448406381",
+    "project_id": "ara-database",
+    "storage_bucket": "ara-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306448406381:android:fc4d69c5952611914c6c64",
+        "android_client_info": {
+          "package_name": "ara.app.com.araapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306448406381-4ok3k4hhs8ghr6787rc8otlbd1pmtmab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRZqJe1rOD4zGNB0uGKhjIfmRgNDCkXOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306448406381-4ok3k4hhs8ghr6787rc8otlbd1pmtmab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
